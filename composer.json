@@ -1,0 +1,12 @@
+{
+    "name": "przemyslaw/php",
+    "authors": [
+        {
+            "name": "CrackenPL",
+            "email": "33528215+CrackenPL@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
